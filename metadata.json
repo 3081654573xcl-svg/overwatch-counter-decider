@@ -1,0 +1,5 @@
+{
+  "name": "Overwatch Counter Intelligence",
+  "description": "A high-performance, data-driven counter-intelligence dashboard for Overwatch heroes, featuring real-time relationship mapping and AI-assisted team building.",
+  "requestFramePermissions": []
+}
